@@ -1,2 +1,2 @@
 # ImageEnhancement
-Image enhancemnet using Histogram Equalization 
+Image enhancemnet using Histogram Matching 
